@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusLucas87
 - 👀 I’m interested in explore the world of development and learn as much as I can.
-- 🌱 I’m currently learning Figma and Java Script
+- 🌱 I’m currently learning Figma and Java Script, Unity, C#
 - 💞️ I’m looking to collaborate on any project that bring quality of life to people.
 - 📫 How to reach me ViniciusLucas87@gmail.com
 
