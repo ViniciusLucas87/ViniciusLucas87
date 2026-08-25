@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ViniciusLucas87
-- 👀 I’m interested in explore the world of development and learn as much as I can.
-- 🌱 I’m currently learning Figma and Java Script, Unity, C#
-- 💞️ I’m looking to collaborate on any project that bring quality of life to people.
-- 📫 How to reach me ViniciusLucas87@gmail.com
+# Vinicius Lucas
 
-<!---
-ViniciusLucas87/ViniciusLucas87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Custom software and systems integration for businesses with complex operations.
+
+I build dependable internal tools, CRM workflows, customer portals, dashboards, API integrations, and automation that replace disconnected tools and manual follow-up.
+
+**Core stack:** Python, FastAPI, PostgreSQL, TypeScript, React, Next.js, APIs, cloud deployment, and production monitoring.
+
+I work from discovery through delivery: mapping the real workflow, defining a focused first release, and building systems that are clear enough to operate and extend.
+
+**Selected public work:** available here as it is safe to share.
+
+[Pacific North Systems](https://www.pacificnorthsystems.com/)
