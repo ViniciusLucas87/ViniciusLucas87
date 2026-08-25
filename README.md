@@ -4,7 +4,7 @@ Custom software and systems integration for businesses with complex operations.
 
 I build dependable internal tools, CRM workflows, customer portals, dashboards, API integrations, and automation that replace disconnected tools and manual follow-up.
 
-**Languages:** C++, C#, Python, JavaScript, TypeScript.
+**Languages:** C++, C#, Python, TypeScript, JavaScript, SQL, HTML, CSS, Bash, and PowerShell.
 
 **Core stack:** FastAPI, PostgreSQL, React, Next.js, APIs, cloud deployment, and production monitoring.
 
